@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+* {
+    font-family: sans-serif;
+    
+}
+
+body {
+    background-image: linear-gradient(to right, #C9C9C9, #696969);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(31, 31, 31, 0.592);
+    width: 600px;
+    padding: 10px;
+    margin: auto; /* ele sempre vai centralizar independente do tamanho da tela */
+}
+
+h1 {
+    text-shadow: 1px 1px 0 rgba(10, 10, 10, 0.619);
+    text-align: center;
+    color: #1A1A1A;
+}
+
+h2 {
+    color: #696969;
+}
+
+p {
+    text-align: justify;
+}
