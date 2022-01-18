@@ -1,0 +1,26 @@
+@charset 'UTF-8';
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-align: justify;
+    background-color: rgb(240, 233, 227);
+}
+
+#principal {
+    text-align: center;
+    background-color: coral;
+}
+
+.EstilizandoCSS {
+    text-align: center;
+    background-color: coral;
+}
+.basico {
+background-color: rgb(253, 255, 131);
+}
+.intermediario {
+    background-color: rgb(142, 204, 252);
+}
+.avancado {
+    background-color: rgb(143, 139, 139);
+}
